@@ -1,0 +1,149 @@
+# LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+# Intermediate documents
+*.dvi
+*.xdv
+*-converted-to.*
+
+# Bibliography auxiliary files
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+# Build tool auxiliary files
+*.fdb_latexmk
+*.fls
+*.makefile
+*.fls
+*.figlist
+*.makefile
+*.fls
+*.figlist
+
+# Build directories
+build/
+.texpadtmp/
+
+# Cross-references
+*.xref
+
+# Hyperref
+*.brf
+
+# Glossaries
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.lzo
+*.lzs
+
+# Uncomment this if you also use the glossaries-extra package
+# *.ist
+
+# Index
+*.idx
+*.ilg
+*.ind
+
+# Minitoc
+*.maf
+*.mlf
+*.mlt
+*.mtc[0-9]*
+*.slf[0-9]*
+*.slt[0-9]*
+*.stc[0-9]*
+
+# Nomenclature
+*.nlg
+*.nlo
+*.nls
+
+# Pax
+*.pax
+
+# PdfTeX
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# XeTeX
+*.xdv
+
+# KaTeX
+*.katex
+
+# Latexian
+TSWLatexianTemp*
+
+# TeXnicCenter
+*.tps
+
+# Auto-generated tag files
+*.tag
+
+# TeXStudio
+*.txss
+
+# WinEdt
+*.bak
+*.sav
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor backup files
+*.swp
+*.swo
+*~
+
+# Archive files (keep source, ignore compiled)
+*.zip
+*.tar.gz
+*.tar.bz2
+
+# Keep only source files
+# Uncomment the next lines if you want to keep only .tex and image files
+# *
+# !*.tex
+# !*.sty
+# !*.cls
+# !*.bib
+# !*.png
+# !*.jpg
+# !*.jpeg
+# !*.pdf
+# !*.eps
+# !*.svg
+# !.gitignore
